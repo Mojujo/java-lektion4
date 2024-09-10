@@ -1,7 +1,6 @@
 package se.oscar.calculator;
 
 public class Calculator {
-    public Calculator() {}
     public int CalculatorAdd(int a, int b) {
         return a + b;
     }

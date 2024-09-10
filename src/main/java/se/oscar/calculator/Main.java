@@ -1,5 +1,4 @@
 package se.oscar.calculator;
-
 import java.util.Scanner;
 
 public class Main {
